@@ -179,6 +179,47 @@ to make sure they're doing at least a few of these things.
 > This exercise should take about 5 minutes.  
 {: .challenge}
 
+The importance of motivation, in the context of learning, cannot be overstated. We have three important 'levers' with which we can influence motivation: a supportive environment, percieved value of the material, and the efficacy of our learners. However, how can we tell if our learners are motivated? And, just as importantly, how can we identify which of the these levers might be negatively affecting the motivation of our learners?
+
+![Evaluating Motivation](../fig/fig-3-2-howlearningworks.png)
+
+Figure 3.2 provides instructors with a framework for identifying situations in which environment, value, and/or efficacy may need to be adjusted to better motivate learners.
+
+> ## Changing Your Language
+> 
+> Think about a time where you encountered a learner (it could be yourself!) who could be described by one of the words
+> circled in figure 3.2. What were some characteristics in their language, attitude, or body language?
+> 
+> Using figure 3.2, which of the three levers (environment, efficacy, value) was negatively influencing the motivation of
+> the learner, and what steps could be taken to fix this?
+> 
+> This discussion should take about five minutes.  
+>
+>> ## Solution  
+>> When students care little about a goal and have little confidence in their abilities to successfully achieve that goal, they tend to
+>> behave in a *rejecting* manner. This characterizes students in both supportive and unsupportive environments. These students are 
+>> prone to disengage from learning situations and may experience apathy, general passivity, alientation, or even a sense of anger.
+>> 
+>> When students in both supportive and unsupportive environments see little value in a goal but are confident in their abilities to 
+>> successfully achieve it, they may act in an *evading* manner. They may have difficulty paying attention and are frequently 
+>> preoccupied by social distractions or daydreaming.
+>> 
+>> Those students who see value in a goal but lack confidence in their ability to achieve it can manifest two forms of behaviour,
+>> depending on the nature of the environment. Those that percieve little or not support from the environment tend to be *hopeless*.
+>> They may appear to have no expectations of success and demonstrate low levels of motivation. Those who do perceive a supportive
+>> environment tend to be *fragile*. They are dubious about their own abilities and may try to protect their sense of self-esteem by
+>> feigning understanding, avoiding situations that require overt performance, denying difficulty, and making excuses to explain
+>> poor performance.
+>>
+>> Depending on their perceptions of the environment, students who see value in a task and are confident about their abilities may 
+>> manifest two forms of behaviour. Those that perceive little or no support from the environment may be *defiant*. They may take an
+>> "I will prove you wrong" attitude. Those students who perceive the environment to be supportive demonstrate the most *motivated*
+>> behaviour.
+>>
+>> (from How Learning Works, Ambrose *et al.* 2010)
+> {: .solution}
+{: .challenge}
+
 ## Demotivation
 
 > If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming. - Kunal Marwaha, SWC instructor
