@@ -198,7 +198,7 @@ Figure 3.2 provides instructors with a framework for identifying situations in w
 >> ## Solution  
 >> When students care little about a goal and have little confidence in their abilities to successfully achieve that goal, they tend to
 >> behave in a *rejecting* manner. This characterizes students in both supportive and unsupportive environments. These students are 
->> prone to disengage from learning situations and may experience apathy, general passivity, alientation, or even a sense of anger.
+>> prone to disengage from learning situations and may experience apathy, general passivity, alienation, or even a sense of anger.
 >> 
 >> When students in both supportive and unsupportive environments see little value in a goal but are confident in their abilities to 
 >> successfully achieve it, they may act in an *evading* manner. They may have difficulty paying attention and are frequently 
